@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "Version": 1,
   "Hash": "iOcMhvUYJ9p55ekX1N2/+Gf1jT2lbzfxwjh5sy5gAfo=",
@@ -8,4 +9,16 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": []
+=======
+{
+  "Version": 1,
+  "Hash": "iOcMhvUYJ9p55ekX1N2/+Gf1jT2lbzfxwjh5sy5gAfo=",
+  "Source": "soap-test",
+  "BasePath": "_content/soap-test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+>>>>>>> bf579d56b19de821a3baefb20e804cc3224bef17
 }
